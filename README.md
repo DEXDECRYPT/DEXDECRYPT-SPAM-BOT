@@ -21,9 +21,8 @@
 <a href="https://dashboard.heroku.com/new?template=https://github.com/DEXDECRYPT/DEXDECRYPT-SPAM-BOT"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>
 </p>  
 ------------------------------------------------
-
-
-𝚃𝙰𝙺𝙴 𝚂𝚃𝚁𝙸𝙽𝙶 𝙵𝚁𝙾𝙼 𝙷𝙴𝚁𝙴 - 
-
-    
+   
 -------------------------------------------------
+𝚃𝙰𝙺𝙴 𝚂𝚃𝚁𝙸𝙽𝙶 𝙵𝚁𝙾𝙼 𝙷𝙴𝚁𝙴 - https://t.me/DEXDECRYPT_MUSIC_STRING_BOT
+
+Telethon Choose👆
