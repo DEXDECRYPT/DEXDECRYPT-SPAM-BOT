@@ -1,7 +1,7 @@
 {
   "name": "𝐷𝐸𝑋𝐷𝐸𝐶𝑅𝑌𝑃𝑇 𝑆𝑃𝐴𝑀 𝐵𝑂𝑇",
   "description": "Telegram Fast And Stable Spam Bot By @NikhilOwner",
-  "logo": "https://telegra.ph/file/9554cb74d2127a4c39e1a.jpg",
+  "logo": "https://telegra.ph/file/9554cb74d2127a439e1a.jpg",
     "env": {
      "API_ID": {
         "description": "Api ID",
